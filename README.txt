@@ -1,1 +1,1 @@
-Github Pages Repository for Edinburgh Graves
+Github Pages Repository for Edinburgh Discovered
